@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SportCalendar</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="title_calendar">Календарь</string>
+    <string name="title_workout">Тренировка</string>
+    <string name="title_settings">Настройки</string>
+</resources>
